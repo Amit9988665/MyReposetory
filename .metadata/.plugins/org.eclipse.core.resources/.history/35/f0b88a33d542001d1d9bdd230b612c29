@@ -1,0 +1,14 @@
+package com.in2it.feignutil;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+
+import com.in2it.model.DropDown;
+
+@Service
+public class FeignService {
+	
+ 
+}

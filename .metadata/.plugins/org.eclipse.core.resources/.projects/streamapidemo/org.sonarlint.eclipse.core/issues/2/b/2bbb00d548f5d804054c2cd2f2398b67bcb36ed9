@@ -1,0 +1,34 @@
+
+X
+java:S1602",Remove useless curly braces around statement(ûÉÚÒH†RMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿH‰RMAJORZ
+CODE_SMELL
+q
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(ë¨°²ÿÿÿÿÿHÿ
+RMINORZ
+CODE_SMELL
+]
+java:S1602",Remove useless curly braces around statement(ë¨°²ÿÿÿÿÿHş
+RMINORZ
+CODE_SMELL
+l
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(²ÇÀ€HƒRMINORZ
+CODE_SMELL
+l
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(ûÉÚÒH‡RMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿH…RMAJORZ
+CODE_SMELL
+V
+java:S1197"*Move the array designators [] to the type.(Î©×Hû
+RMINORZ
+CODE_SMELL
+X
+java:S1602",Remove useless curly braces around statement(²ÇÀ€H‚RMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿHRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ä†ëÊHú
+RMAJORZ
+CODE_SMELL

@@ -1,0 +1,6 @@
+
+y
+java:S4684 "@Replace this persistent entity with a simple POJO or DTO object.(³ÛÍ‹8“ŠÉ®´0HÑRCRITICALZVULNERABILITY
+
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "text".(ûê¾ÿÿÿÿÿHÌRMINORZ
+CODE_SMELL

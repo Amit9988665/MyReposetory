@@ -1,0 +1,37 @@
+package com.in2it.model;
+
+import java.io.Serializable;
+
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.validation.constraints.NotBlank;
+import javax.validation.constraints.NotNull;
+import javax.validation.constraints.Pattern;
+
+import lombok.Data;
+
+@Entity
+@Data
+public class Persons implements Serializable {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+	@Id
+	@GeneratedValue(strategy = GenerationType.AUTO)
+	int id;
+	@NotNull(message = "Person name should not be null")
+	String personName;
+	@NotBlank(message = "Address not Blank")
+	String personAddress;
+	String personEmail;
+
+	@Pattern(regexp = "^\\d{10}$", message = "Invalid Mobile number")
+	String personPhoneNo;
+
+	
+	
+}

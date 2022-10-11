@@ -1,0 +1,9 @@
+
+k
+java:S1161/":Add the "@Override" annotation above this method signature(Ê ˜‹ùÿÿÿÿHˆ1RMAJORZ
+CODE_SMELL
+p
+java:S1874"DRemove this use of "WebSecurityConfigurerAdapter"; it is deprecated.(€¬›¥HŠ1RMINORZ
+CODE_SMELL
+o
+java:S5344&">Don't use the default "PasswordEncoder" relying on plain-text.(«Í£nH‹1RCRITICALZVULNERABILITY

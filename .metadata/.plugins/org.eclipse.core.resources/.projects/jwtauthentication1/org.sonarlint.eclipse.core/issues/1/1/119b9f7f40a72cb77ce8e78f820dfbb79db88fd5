@@ -1,0 +1,6 @@
+
+{
+java:S1128"ORemove this unused import 'org.springframework.beans.factory.annotation.Value'.(ìø›HÁRMINORZ
+CODE_SMELL
+p
+java:S2184"FCast one of the operands of this multiplication operation to a "long".(ˆà’ıûÿÿÿÿHÀRMINORZBUG

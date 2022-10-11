@@ -1,0 +1,10 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ùÄûšþÿÿÿÿ8 ûýí·0H¦RMAJORZ
+CODE_SMELL
+r
+java:S6213":Rename this variable to not match a restricted identifier.(±„º²úÿÿÿÿ8 ûýí·0H§RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.( ÍÿŒþÿÿÿÿ8 ûýí·0H¨RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¨˜¾ê8 ûýí·0H©RMAJORZ
+CODE_SMELL

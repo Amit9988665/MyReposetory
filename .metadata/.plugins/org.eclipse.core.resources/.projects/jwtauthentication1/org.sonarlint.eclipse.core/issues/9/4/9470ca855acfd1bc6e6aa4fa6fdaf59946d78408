@@ -1,0 +1,9 @@
+
+d	java:S1069"9Replace this use of System.out or System.err by a logger.(óà“ÒHŒ1RMAJORZ
+CODE_SMELL
+–
+java:S1128"eRemove this unused import 'org.springframework.security.web.authentication.WebAuthenticationDetails'.(˜öÃˆıÿÿÿÿH1RMINORZ
+CODE_SMELL
+]
+java:S1135,"2Complete the task associated to this TODO comment.(‡ñÅ¼H1RINFOZ
+CODE_SMELL

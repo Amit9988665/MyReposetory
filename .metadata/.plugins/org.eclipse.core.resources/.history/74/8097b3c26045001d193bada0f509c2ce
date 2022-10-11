@@ -1,0 +1,55 @@
+package com.in2it.service;
+
+import static org.assertj.core.api.Assertions.assertThat;
+
+import org.junit.Before;
+import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.extension.ExtendWith;
+import org.mockito.Mock;
+import org.mockito.MockitoAnnotations;
+import org.mockito.junit.jupiter.MockitoExtension;
+
+import com.in2it.custumexception.UserCustumException;
+import com.in2it.model.Employee;
+import com.in2it.repository.EmployeeRepo;
+
+ 
+@ExtendWith(MockitoExtension.class)
+class EmployeeServiceTest {
+
+	@Mock
+	EmployeeService employeeService;
+
+	@Mock
+	EmployeeRepo employeeRepo;
+	
+	@Before
+	public void init() {
+		MockitoAnnotations.openMocks(this);
+	}
+
+	@Test
+	void getByEmpId() throws UserCustumException {
+		Employee employee = new Employee();
+		employee.setEid(1);
+		employee.setEmpName("Amit Kumar");
+		employee.setEmpAddress("Grater Noida");
+		employee.setEmpSalary("1000");
+		employee.setEmpPassword("admin");
+		employee.setEmpUserName("amit");
+
+		System.out.println(employee);
+
+		Employee employee2 = employeeService.getByEmpId(1);
+		System.out.println(employee2);
+		// assertThat(employee2).isEqualTo(employee);
+		assertThat(employee2).isEqualToComparingFieldByField(employee2);
+	}
+
+//	@Test
+//	void getAllEmp() {
+//		employeeService.getAllEmp();
+//		verify(employeeRepo).findAll();
+//	}
+
+}

@@ -1,0 +1,41 @@
+
+_
+java:S1602$",Remove useless curly braces around statement(²ãØ›8ÁÃ›Ìµ0HRMINORZ
+CODE_SMELL
+‘
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(èîİ½şÿÿÿÿ8¼‹„Ìµ0HÜ
+RMINORZ
+CODE_SMELL
+r
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(ì¥…@8«Ü¢Ìµ0HªRMINORZ
+CODE_SMELL
+p	java:S106%"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8ÁÃ›Ìµ0H’RMAJORZ
+CODE_SMELL
+]
+java:S1905"*Remove this unnecessary cast to "Integer".(™¬æ8¼‹„Ìµ0HŞ
+RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(«òˆì8éÚŒÌµ0Hé
+RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(½—«œúÿÿÿÿ8éÚŒÌµ0Hí
+RMAJORZ
+CODE_SMELL
+s
+java:S1612$"@Replace this lambda with method reference 'System.out::println'.(²ãØ›8ÁÃ›Ìµ0HRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8Œ‘Ìµ0Hó
+RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(«òˆì8©†Ìµ0Hğ
+RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(öâˆú8¼‹„Ìµ0Hà
+RMAJORZ
+CODE_SMELL
+^
+java:S1602",Remove useless curly braces around statement(ì¥…@8Á£“Ìµ0Hö
+RMINORZ
+CODE_SMELL
+k	java:S106""9Replace this use of System.out or System.err by a logger.(„ÏÙß8ÁÃ›Ìµ0HRMAJORZ
+CODE_SMELL

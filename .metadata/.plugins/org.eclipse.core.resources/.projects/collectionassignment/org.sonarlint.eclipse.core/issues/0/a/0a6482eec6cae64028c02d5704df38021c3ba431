@@ -1,0 +1,22 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ðê¨›8ËÊøÌµ0HçRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ÖðŽº8Ñ¿™Íµ0HïRMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(ÊõÉ48Ñ¿™Íµ0HîRMAJORZ
+CODE_SMELL
+p	java:S106%"9Replace this use of System.out or System.err by a logger.(Ã¸¬¤ùÿÿÿÿ8®¡£Íµ0HòRMAJORZ
+CODE_SMELL
+k	java:S106*"9Replace this use of System.out or System.err by a logger.(«‹Îõ8àÆµÍµ0HúRMAJORZ
+CODE_SMELL
+p	java:S106/"9Replace this use of System.out or System.err by a logger.(’ÄÒšúÿÿÿÿ8Ò•¸Íµ0HüRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(­¬˜‚8Æ¤´Íµ0HøRMAJORZ
+CODE_SMELL
+Œ
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ø‹ÃÏ8×Ä×Ìµ0HÛRMINORZ
+CODE_SMELL
+d
+java:S1602",Remove useless curly braces around statement(ÒÌâ–øÿÿÿÿ8Æ¤´Íµ0H÷RMINORZ
+CODE_SMELL

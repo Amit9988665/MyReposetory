@@ -1,0 +1,14 @@
+
+
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(¹²ƒ;8¸õ›®´0H1RMINORZ
+CODE_SMELL
+w	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¹²ƒ;8¸õ›®´0H’1RMAJORZ
+CODE_SMELL
+p
+java:S1874"DRemove this use of "WebSecurityConfigurerAdapter"; it is deprecated.(»ŒüH“1RMINORZ
+CODE_SMELL
+“
+java:S3305"]Inject this field value directly into "jdbcUserDetailsManager", the only method that uses it.(²ğ²İ8¤ÄÑ¡µ0H”1RCRITICALZ
+CODE_SMELL
+¢
+java:S4601'"dReorder the URL patterns from most to less specific, the pattern "/save" should occurs before "/**".(­¤Ë‡şÿÿÿÿ8€ó©µ0H•1RCRITICALZVULNERABILITY

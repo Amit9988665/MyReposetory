@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="EmployeeServiceTest" project="employee_management_system" tests="4" started="4" failures="0" errors="0" ignored="0">
+  <testsuite name="com.in2it.service.EmployeeServiceTest" time="1.23" displayname="EmployeeServiceTest" uniqueid="[engine:junit-jupiter]/[class:com.in2it.service.EmployeeServiceTest]">
+    <testcase name="getByEmpId1" classname="com.in2it.service.EmployeeServiceTest" time="1.16" displayname="getByEmpId1()" uniqueid="[engine:junit-jupiter]/[class:com.in2it.service.EmployeeServiceTest]/[method:getByEmpId1()]"/>
+    <testcase name="deleteByEmpId" classname="com.in2it.service.EmployeeServiceTest" time="0.018" displayname="deleteByEmpId()" uniqueid="[engine:junit-jupiter]/[class:com.in2it.service.EmployeeServiceTest]/[method:deleteByEmpId()]"/>
+    <testcase name="getAllEmp" classname="com.in2it.service.EmployeeServiceTest" time="0.012" displayname="getAllEmp()" uniqueid="[engine:junit-jupiter]/[class:com.in2it.service.EmployeeServiceTest]/[method:getAllEmp()]"/>
+    <testcase name="getAllEmpService" classname="com.in2it.service.EmployeeServiceTest" time="0.031" displayname="getAllEmpService()" uniqueid="[engine:junit-jupiter]/[class:com.in2it.service.EmployeeServiceTest]/[method:getAllEmpService()]"/>
+  </testsuite>
+</testrun>

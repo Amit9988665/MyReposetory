@@ -1,0 +1,10 @@
+
+m
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ûÂ¡ôþÿÿÿÿ8ŒÔÊÌµ0HÒRMAJORZBUG
+Œ
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(…ÁÝØ8ŸÛÅÌµ0HÏRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ8ŒÔÊÌµ0HÕRMAJORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(±Šü‘8Ÿ¿›Õµ0H©RMAJORZ
+CODE_SMELL

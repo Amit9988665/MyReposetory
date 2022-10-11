@@ -1,0 +1,14 @@
+
+‘
+java:S1488."`Immediately return this expression instead of assigning it to the temporary variable "userList".(ôÜçòúÿÿÿÿHµ RMINORZ
+CODE_SMELL
+l	java:S1255"<This block of commented-out lines of code should be removed.(íˆ¢‰ýÿÿÿÿH¸ RMAJORZ
+CODE_SMELL
+i	java:S1067"9Replace this use of System.out or System.err by a logger.(÷™þ´úÿÿÿÿH¹ RMAJORZ
+CODE_SMELL
+]
+java:S1068"1Remove this unused "redisTemplate" private field.(×ÂÃÉHº RMAJORZ
+CODE_SMELL
+^
+java:S1068"2Remove this unused "listOperations" private field.(Æ±‘ïH¼ RMAJORZ
+CODE_SMELL

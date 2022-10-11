@@ -1,0 +1,18 @@
+
+q	java:S112("FDefine and throw a dedicated exception instead of using a generic one.(ö²ÚÜHëRMAJORZ
+CODE_SMELL
+v	java:S112!"FDefine and throw a dedicated exception instead of using a generic one.(–ŒİûÿÿÿÿHìRMAJORZ
+CODE_SMELL
+Z
+java:S1452!"&Remove usage of generic wildcard type.(–ŒİûÿÿÿÿHíRCRITICALZ
+CODE_SMELL
+v
+java:S4488 "JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(™ŞŸ¸HîRMINORZ
+CODE_SMELL
+i	java:S106#"9Replace this use of System.out or System.err by a logger.(Â­ÔäüÿÿÿÿHğRMAJORZ
+CODE_SMELL
+d	java:S106-"9Replace this use of System.out or System.err by a logger.(ñšÔHñRMAJORZ
+CODE_SMELL
+{
+java:S1128	"ORemove this unused import 'org.springframework.web.bind.annotation.GetMapping'.(‡¡‰ØHòRMINORZ
+CODE_SMELL

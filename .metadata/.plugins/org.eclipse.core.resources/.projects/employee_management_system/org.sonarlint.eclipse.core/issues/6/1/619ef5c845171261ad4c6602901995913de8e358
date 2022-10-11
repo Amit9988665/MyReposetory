@@ -1,0 +1,7 @@
+
+w
+java:S2789""FEnsure this "Optional" could never be null and remove this null-check.(Å·´—ÿÿÿÿÿ8Ïþ³÷·0HÉ0RMAJORZBUG
+k	java:S106I"9Replace this use of System.out or System.err by a logger.(ßí±Š8¸ÖÈçº0HÍ0RMAJORZ
+CODE_SMELL
+t
+java:S2583""CChange this condition so that it does not always evaluate to "true"(Å·´—ÿÿÿÿÿ8×û¶÷·0HÅ0RMAJORZBUG

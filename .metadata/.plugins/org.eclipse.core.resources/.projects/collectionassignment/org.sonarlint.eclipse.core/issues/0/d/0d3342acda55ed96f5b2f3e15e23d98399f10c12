@@ -1,0 +1,16 @@
+
+i	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿHâRMAJORZ
+CODE_SMELL
+Š
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(èîÝ½þÿÿÿÿHØRMINORZ
+CODE_SMELL
+W
+java:S1602",Remove useless curly braces around statement(ì¥…@HßRMINORZ
+CODE_SMELL
+k
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(ì¥…@HàRMINORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(±ÞÒq8è•ÚÒµ0HñRMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(±ÞÒq8ëÄóÒµ0HýRMAJORZ
+CODE_SMELL
