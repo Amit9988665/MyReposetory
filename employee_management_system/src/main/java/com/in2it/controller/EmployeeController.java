@@ -117,6 +117,6 @@ public class EmployeeController {
 	@GetMapping
 	public String hello()
 	{
-		return "hello";
+		return "hello word";
 	}
 }
